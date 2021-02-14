@@ -54,14 +54,18 @@ Inductor y Capacitor
 3.	Marco Teórico 
 
 4.	Diagramas 
- 
+       ![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe5/blob/main/ImagenesInforme/D1.png)
+Figura 1
+
+![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe5/blob/main/ImagenesInforme/D2.png)
+Figura 2
 
 5.	Lista De Componentes 
 
   5.1 	Explicación
 	 
 
-6.      Procedimiento.
+6. Procedimiento.
 
 7. Descripción De Prerrequisitos Y Configuración.
 
@@ -69,24 +73,55 @@ Inductor y Capacitor
 
 9. Cálculos.
 
-10. Aportaciones. 
+10. Preguntas propuestas
+1.- Justifique los errores cometidos en las mediciones.
+Como se mencionó antes, en esta práctica existieron errores bastantes grandes, en las medidas de corriente específicamente. Esto se debe a varios factores, como el error que introduce el instrumento de medida debido a la resistencia que tienen en su interior, misma que se puede calcular o averiguar revisando las especificaciones del instrumento. Otro factor importante que influyó en el error de la práctica, puede ser el software que se usó para obtener las simulaciones, el cual puede no haber estado correctamente configurado para medir en corriente alterna. Los elementos que se usaron en la práctica también influyen en la introducción de error, ya que cada uno cuenta con una tolerancia que es conocida en las especificaciones de cada elemento.
+2.- ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?
+El inductor se comporta como un cortocircuito en corriente continua, ya que al ser i(t) constante, es decir, no varía con el tiempo, no hay autoinducción de ninguna f.e.m.  Mientras que el capacitor se comporta como un circuito abierto, ya que sus placas internas no permiten el paso de corriente.
 
-	●	Hemos de lograr mejor nuestra visión o conocimiento acerca del tema fasores, el cual se pudo reforzar mediante ejercicios básicos resueltos y de esta manera poder despejar cualquier duda generada en nuestros compañeros.
+3.- ¿Cómo se comportan la bobina y el capacitor en corriente alterna?
+Bobina: XL = jwL  
+El inductor se puede asimilar a una magnitud compleja sin parte real y parte imaginaria positiva
+Capacitor: XC = 1/jwC
+El capacitor se puede asimilar a una magnitud compleja sin parte real y parte imaginaria negativa.
+4.- ¿Qué cree usted que ocurriría con el voltaje 𝑉𝑜 y la corriente de la resistencia en los circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores distintos?
+En el caso de los capacitadores debido a su configuración en paralelo, estos valores se sumarian dando una capacitancia equivalente. Aquí podemos observar que a un menor valor equivalente de capacitancia el calor de voltaje tiende a subir, caso contrario de la corriente ya que esta tiende a subir con el valor de la capacitancia equivalente. 
+
+Gráfico: Simulación, se observa la relación entre el voltaje y corriente con la capacitancia.
+
+En el caso de los inductores debido a su configuración en paralelo se obtiene su equivalente de la siguiente formula: 1/Leq=1/L1+1/L2+⋯+1/Ln . Dependiendo del valor equivalente de la inductancia se observa que a mayor valor del equivalente inductivo será más alto el valor del voltaje, al contrario de la corriente que esta tiende a bajar.
+5.- ¿Qué son los valores eficaces de voltaje y corriente?
+Los valores eficaces de voltaje y corriente o RMS, por sus siglas en inglés, o valor eficaz, es el valor del voltaje o corriente alterna que produce el mismo efecto de disipación de calor que su equivalente de voltaje o corriente, en corriente continua sobre una misma resistencia. 
+De esta definición podemos obtener la expresión para calcular el valor eficaz. La energía disipada en una resistencia de valor R ohmios es: 
+dw = P(t) * dt
+Donde P(t) es la potencia instantánea. 
 
 
-11. Conclusiones. 
+11. Aportaciones o recomendaciones. 
 
-	●	Un fasor puede considerarse como un equivalente matemático de una senoide son la dependencia del tiempo.
-
-	●	Utilizar fasores nos dan un marco de referencia en la frecuencia para hacer más fácil el análisis de circuitos eléctricos en corriente alterna excitados por fuentes sinusoidales.
-
-	●	Se da a conocer una pequeña introducción al uso de fasores, en problemas relacionados con la electricidad y la electrónica. Observando en el mismo que con la implementación de los fasores se pueden simplificar expresiones complejas, como pueden ser ecuaciones diferenciales, en simples cálculos.
+	●	Es necesario que los estudiantes verifiquen sus cálculos previos a la práctica del laboratorio para garantizar un trabajo eficaz y de calidad, con datos verídicos. Además, es importante que investiguen y practiquen los métodos de resolución de circuitos para un mejor aprendizaje.
+	●	El uso del multímetro para la recolección de datos es indispensable, su uso es sencillo y práctico, siempre que los usuarios hayan leído su funcionamiento en el manual de instrucciones, de esta forma eludirán problemas futuros, en ocasiones es necesario cambiar los cables del multímetro a otras entradas, para evitar quemar o dañar las componentes del dispositivo de medición.
+	●	Se recomienda a los estudiantes manipular con cautela los potenciómetros de medición, debido a su alto nivel de sensibilidad, pueden cambiar rápidamente su valor, causando errores en la medición.
 
 
-12. Bibliografía.
+12. Conclusiones. 
 
+	●	Se debe configurar correctamente el software que se utilice para realizar las simulaciones, para poder hacer comparaciones eficaces con los datos obtenidos de la práctica. 
 
-13. Anexos
+	●	Se debe estar alerta al momento de realizar las mediciones y tomar datos, caso contrario, se pueden adquirir datos erróneos y la práctica no serviría para realizar análisis verdaderos.
+
+	●	Los instrumentos de medición deben estar ajustados y calibrados para tomar datos exactos y precisión. Procurando también que éstos sean de buena calidad para que los datos sean los más certeros posible. 
+
+	●	Las bobinas y los capacitores actúan de manera diferente en un circuito, dependiendo si se trata de corriente alterna o continua.
+
+	●	Los factores externos del medio ambiente como la temperatura no permiten una medición sin niveles error, los cuales influyen en la medición, recolección y análisis de datos de los diferentes elementos del circuito que se va a medir.
+
+13. Bibliografía.
+
+	Alexander, C. K., & Sadiku, M. (2006). Fundamentos de Circuitos Eléctricos. México D.F: McGraw-Hill. Floy, T. L. (2007). Principios de circuitos eléctricos. México: Pearson Educación.
+	González, A. G. (2017, 10 octubre). Capacitores e inductores de circuitos eléctricos de http://panamahitek.com/ley-de-las-corrientes-de-kirchhoff-metodo-de-nodos/
+
+14. Anexos
 
     - Link del Video: 
     - Comprobacion Ejercicios: 

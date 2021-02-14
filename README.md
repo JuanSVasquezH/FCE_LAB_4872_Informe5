@@ -29,19 +29,27 @@ Informe 4 "Inductor y Capacitor"
                                                                        2020
 								       
 								       
-1.	Tema: Fasores 
+1.	Tema: 
+
+Inductor y Capacitor
 
 2.	Objetivos
 
 	1.1 Objetivo General
 
-	●	Analizar y comprender los conceptos básicos para la resolución de ejercicios de forma polar y de números complejos o rectangulares.
-	
+	●	Reconocer y definir al inductor y capacitor en un circuito eléctrico.
+
+	●	Verificar el comportamiento de la bobina y el capacitor en circuitos DC.
+
+	●	Verificar el comportamiento de la bobina y el capacitor en circuitos AC.	
+
 	1.2 Objetivos Específicos
 
-	●	Identificar la forma correcta de la transformación entre la forma polar y rectangular que engloba el tema fasores.
+	●	Fortalecer los conocimientos aprendidos teóricamente en clase de métodos experimentales para resolver un circuito como: mallas, nodos, súper mallas, súper nodos, transformación y superposición.
 
-	●	Calcular y comparar los resultados generados analíticos con una calculadora científica y con los resultados analíticos con una calculadora online
+	●	Fomentar el correcto uso y manipulación de los diferentes dispositivos e instrumentos de medición.
+
+	●	Analizar los datos de medición recolectados en clase, con la finalidad de comparar y verificar los resultados obtenidos previos a la práctica del laboratorio.
 
 3.	Marco Teórico 
 

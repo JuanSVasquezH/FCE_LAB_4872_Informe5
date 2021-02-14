@@ -57,11 +57,11 @@ Inductor y Capacitor
 4.	Diagramas 
        
 
-		![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe5/blob/main/ImagenesInforme/D1.png)
+	![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe5/blob/main/ImagenesInforme/D1.png)
 
 							Figura 1
 
-		![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe5/blob/main/ImagenesInforme/D2.png)
+	![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe5/blob/main/ImagenesInforme/D2.png)
 
 							Figura 2
 
@@ -86,8 +86,8 @@ Inductor y Capacitor
 
 7. Descripción De Prerrequisitos Y Configuración.
 
-En la presente practica entenderemos como la aplicación de los métodos de solución de circuitos eléctricos por medio de cálculos podremos se puede obtener valores aproximados a los valores reales de un circuito. En primer lugar, se procedió a armar los circuitos con los respectivos elementos. Se configuró el osciloscopio para los valores requeridos y con la ayuda la sonda de logró variar las frecuencias, dando lugar a varias curvas mostradas en el instrumento. 
-Por último, se realizaron varias mediciones del voltaje pico, voltaje en cada punto y corriente en diferentes puntos del circuito utilizando las frecuencias que se tenían de la sonda del osciloscopio.
+	 	En la presente practica entenderemos como la aplicación de los métodos de solución de circuitos eléctricos por medio de cálculos podremos se puede obtener valores aproximados a los valores reales de un circuito. En primer lugar, se procedió a armar los circuitos con los respectivos elementos. Se configuró el osciloscopio para los valores requeridos y con la ayuda la sonda de logró variar las frecuencias, dando lugar a varias curvas mostradas en el instrumento. 
+		Por último, se realizaron varias mediciones del voltaje pico, voltaje en cada punto y corriente en diferentes puntos del circuito utilizando las frecuencias que se tenían de la sonda del osciloscopio.
 
 
 8. Tabulación de Datos.

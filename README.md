@@ -96,11 +96,11 @@ Figura 2
 
 Como se mencionó antes, en esta práctica existieron errores bastantes grandes, en las medidas de corriente específicamente. Esto se debe a varios factores, como el error que introduce el instrumento de medida debido a la resistencia que tienen en su interior, misma que se puede calcular o averiguar revisando las especificaciones del instrumento. Otro factor importante que influyó en el error de la práctica, puede ser el software que se usó para obtener las simulaciones, el cual puede no haber estado correctamente configurado para medir en corriente alterna. Los elementos que se usaron en la práctica también influyen en la introducción de error, ya que cada uno cuenta con una tolerancia que es conocida en las especificaciones de cada elemento.
 
-	10.2¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?
+	10.2 ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?.
 
 El inductor se comporta como un cortocircuito en corriente continua, ya que al ser i(t) constante, es decir, no varía con el tiempo, no hay autoinducción de ninguna f.e.m.  Mientras que el capacitor se comporta como un circuito abierto, ya que sus placas internas no permiten el paso de corriente.
 
-	10.3  ¿Cómo se comportan la bobina y el capacitor en corriente alterna?
+10.3 ¿Cómo se comportan la bobina y el capacitor en corriente alterna?
 
 Bobina: XL = jwL  
 El inductor se puede asimilar a una magnitud compleja sin parte real y parte imaginaria positiva

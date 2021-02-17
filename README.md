@@ -152,9 +152,11 @@ Donde P(t) es la potencia instantánea.
 
 13. Bibliografía.
 
-	Alexander, C. K., & Sadiku, M. (2006). Fundamentos de Circuitos Eléctricos. México D.F: McGraw-Hill. Floy, T. L. (2007). Principios de circuitos eléctricos. México: Pearson Educación.
+       - Alexander, C. K., & Sadiku, M. (2006). Fundamentos de Circuitos Eléctricos. México D.F: McGraw-Hill. Floy, T. L. (2007). Principios de circuitos eléctricos. México: Pearson Educación.
 	González, A. G. (2017, 10 octubre). Capacitores e inductores de circuitos eléctricos de http://panamahitek.com/ley-de-las-corrientes-de-kirchhoff-metodo-de-nodos/
 
+       - SN (2020). Capacitor, recuperado de: https://www.ingmecafenix.com/electronica/el-capacitor/
+       - Electronica unicrom (2020). Inductor, recuperado de: https://unicrom.com/bobina-o-inductor/#:~:text=La%20bobina%20o%20inductor%20es,en%20forma%20de%20campo%20el%C3%A9ctrico.
 14. Anexos
 
     - Link del Video: 

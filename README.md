@@ -53,6 +53,10 @@ Inductor y Capacitor
 
 3.	Marco Teórico 
 
+	![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe5/blob/main/ImagenesInforme/MT.png)
+	
+	
+	![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe5/blob/main/ImagenesInforme/MT1.png)
 
 4.	Diagramas 
        

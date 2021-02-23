@@ -129,6 +129,19 @@ Inductor y Capacitor
 
 8. Tabulación de Datos.
 
+      ![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe5/blob/main/ImagenesInforme/T1.png)
+
+							Figura 11
+							
+      ![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe5/blob/main/ImagenesInforme/T2.png)
+
+							Figura 12
+							
+      ![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe5/blob/main/ImagenesInforme/T3.png)
+
+							Figura 13
+
+
 9. Cálculos.
 
 10. Preguntas propuestas

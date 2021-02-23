@@ -206,7 +206,7 @@ Donde P(t) es la potencia instantánea.
 14. Anexos
 
     - Link del Video: 
-    - Comprobacion Ejercicios: 
+    - Comprobacion Ejercicios: https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe5/blob/main/Anexos/LAB5__CALCULOS_FCE.pdf
 
 
 

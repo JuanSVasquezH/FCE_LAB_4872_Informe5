@@ -88,6 +88,39 @@ Inductor y Capacitor
 
 6. Procedimiento.
 
+      [](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe5/blob/main/ImagenesInforme/1.png)
+
+							Figura 3
+							
+      [](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe5/blob/main/ImagenesInforme/2.png)
+
+							Figura 4
+							
+      [](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe5/blob/main/ImagenesInforme/3.png)
+
+							Figura 5
+							
+      [](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe5/blob/main/ImagenesInforme/4.png)
+
+							Figura 6
+							
+      [](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe5/blob/main/ImagenesInforme/5.png)
+
+							Figura 7
+							
+      [](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe5/blob/main/ImagenesInforme/6.png)
+
+							Figura 8
+							
+      [](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe5/blob/main/ImagenesInforme/7.png)
+
+							Figura 9
+							
+      [](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe5/blob/main/ImagenesInforme/8.png)
+
+							Figura 10
+
+
 7. Descripción De Prerrequisitos Y Configuración.
 
 	 En la presente practica entenderemos como la aplicación de los métodos de solución de circuitos eléctricos por medio de cálculos podremos se puede obtener valores aproximados a los valores reales de un circuito. En primer lugar, se procedió a armar los circuitos con los respectivos elementos. Se configuró el osciloscopio para los valores requeridos y con la ayuda la sonda de logró variar las frecuencias, dando lugar a varias curvas mostradas en el instrumento. 

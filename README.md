@@ -63,7 +63,7 @@ Inductor y Capacitor
 
 	![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe5/blob/main/ImagenesInforme/D1.png)
 
-							Figura 1
+							Figura 1 
 
 	![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe5/blob/main/ImagenesInforme/D2.png)
 
@@ -90,35 +90,35 @@ Inductor y Capacitor
 
       ![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe5/blob/main/ImagenesInforme/1.jpg)
 
-							Figura 3
+							Figura 3 Simulador LTspice
 							
       ![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe5/blob/main/ImagenesInforme/2.jpg)
 
-							Figura 4
+							Figura 4 Circuito a Implementar con Capacitor
 							
       ![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe5/blob/main/ImagenesInforme/3.jpg)
 
-							Figura 5
+							Figura 5 Medida de voltaje de salida Vo
 							
       ![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe5/blob/main/ImagenesInforme/4.jpg)
 
-							Figura 6
+							Figura 6 Circuito a Implementar con Inductor
 							
       ![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe5/blob/main/ImagenesInforme/5.jpg)
 
-							Figura 7
+							Figura 7 Medida de voltaje de slaida Vo
 							
       ![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe5/blob/main/ImagenesInforme/6.jpg)
 
-							Figura 8
+							Figura 8 Simulador Proteus
 							
       ![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe5/blob/main/ImagenesInforme/7.jpg)
 
-							Figura 9
+							Figura 9 Medida de Volatje y Corriente (Capacitor)
 							
       ![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe5/blob/main/ImagenesInforme/8.jpg)
 
-							Figura 10
+							Figura 10 Medida de Volatje y Corriente (Inductor)
 
 
 7. Descripción De Prerrequisitos Y Configuración.
